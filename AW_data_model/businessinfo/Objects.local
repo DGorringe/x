@@ -1,0 +1,6 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.businessinfo.BusinessInfoDesign>
+   <object objectType="Contact" objectID="1EF7B31E-F3F0-43D8-0FF8-BA0C85260447" name="Matt Edwards " seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.businessinfo.BIContact" propertyParentId="15E883CD-E964-3172-A07C-CC7F84980E41" propertySourceId="" propertyTargetId=""/>
+   <object objectType="ResponsibleParty" objectID="6319F610-2DE0-8BCE-B8E7-C07DAEC74EDC" name="Asset Data Owner" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.businessinfo.BIResponsibleParty" propertyParentId="15E883CD-E964-3172-A07C-CC7F84980E41" propertySourceId="" propertyTargetId=""/>
+   <object objectType="ResponsibleParty" objectID="B47C16D7-AA57-DA4B-05AF-7C7340C77072" name="ResParty_2" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.businessinfo.BIResponsibleParty" propertyParentId="15E883CD-E964-3172-A07C-CC7F84980E41" propertySourceId="" propertyTargetId=""/>
+</oracle.dbtools.crest.model.businessinfo.BusinessInfoDesign>

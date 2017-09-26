@@ -1,0 +1,6 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<BIContact class="oracle.dbtools.crest.model.businessinfo.BIContact" name="Matt Edwards " directorySegmentName="seg_0" id="1EF7B31E-F3F0-43D8-0FF8-BA0C85260447">
+<createdBy>david</createdBy>
+<createdTime>2017-09-25 15:02:58 UTC</createdTime>
+<ownerDesignName>AW_data_model</ownerDesignName>
+</BIContact>

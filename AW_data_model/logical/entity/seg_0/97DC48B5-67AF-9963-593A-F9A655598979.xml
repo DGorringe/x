@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="97DC48B5-67AF-9963-593A-F9A655598979" name="Distribution Zone">
+<createdBy>david</createdBy>
+<createdTime>2017-09-25 15:48:18 UTC</createdTime>
+<ownerDesignName>AW_data_model</ownerDesignName>
+<engineerTo>
+<item key="59D24A8D-8BE6-F1D2-1678-FD6B57ED6C28" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<hierarchicalParent>600C8BDF-E004-BD8F-5BD0-6BB198CF8088</hierarchicalParent>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+</Entity>

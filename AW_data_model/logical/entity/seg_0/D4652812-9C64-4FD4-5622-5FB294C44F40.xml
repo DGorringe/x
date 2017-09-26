@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="D4652812-9C64-4FD4-5622-5FB294C44F40" name="Protected Area">
+<createdBy>david</createdBy>
+<createdTime>2017-09-25 15:58:01 UTC</createdTime>
+<commentInRDBMS>Also known as Bio Diversity area</commentInRDBMS>
+<ownerDesignName>AW_data_model</ownerDesignName>
+<engineerTo>
+<item key="59D24A8D-8BE6-F1D2-1678-FD6B57ED6C28" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<hierarchicalParent>F5149C57-6EAD-D826-D1CC-5C93EE616626</hierarchicalParent>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+</Entity>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<cwd_glossary name="AW Data Model" description="" id="A45A7B6A-CCE7-2D70-B8AD-052696E3268A" >
+
+   <glossaryWord name="test" plural="tests" abbreviation="tst" alt_abbreviation="test1" class_word="true" primary_word="true" modifier="true" qualifier="true" id="A9D03183-638D-5B4D-03EB-786F4834D029" import_id="" description="a test" />
+
+</cwd_glossary>

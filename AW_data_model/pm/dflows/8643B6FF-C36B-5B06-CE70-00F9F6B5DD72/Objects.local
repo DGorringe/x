@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.process.DataFlowDesign>
+   <object objectType="ExtAgent" objectID="E23D1AC1-5AB8-0897-7CB2-AE6B595DC7E2" name="ExtAgent_1" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.process.ExternalAgent" propertyParentId="8643B6FF-C36B-5B06-CE70-00F9F6B5DD72" propertySourceId="" propertyTargetId=""/>
+   <object objectType="Process" objectID="9C0E8491-4359-44F9-683B-1E31E01EA5A7" name="Process_1" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.process.Process" propertyParentId="8643B6FF-C36B-5B06-CE70-00F9F6B5DD72" propertySourceId="" propertyTargetId=""/>
+   <object objectType="Flow" objectID="FA60CAEE-E713-6BCD-6CAA-EA9941CB8A20" name="Flow_2" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.process.Flow" propertyParentId="8643B6FF-C36B-5B06-CE70-00F9F6B5DD72" propertySourceId="9C0E8491-4359-44F9-683B-1E31E01EA5A7" propertyTargetId="E23D1AC1-5AB8-0897-7CB2-AE6B595DC7E2"/>
+   <object objectType="Flow" objectID="9BBE8C78-D94B-0384-919E-7ED44FC761B7" name="Flow_1" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.process.Flow" propertyParentId="8643B6FF-C36B-5B06-CE70-00F9F6B5DD72" propertySourceId="9C0E8491-4359-44F9-683B-1E31E01EA5A7" propertyTargetId="D9181238-6007-97EB-9DAC-13598C1CF106"/>
+</oracle.dbtools.crest.model.design.process.DataFlowDesign>

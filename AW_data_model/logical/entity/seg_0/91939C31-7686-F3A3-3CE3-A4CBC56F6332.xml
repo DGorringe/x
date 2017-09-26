@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="91939C31-7686-F3A3-3CE3-A4CBC56F6332" name="Weather Area">
+<createdBy>david</createdBy>
+<createdTime>2017-09-25 16:00:35 UTC</createdTime>
+<commentInRDBMS>Data about weather - coverage, precipitation, likelihood.  Excludes impact of weather (e.g. flood plain modelling - this should be in Land)</commentInRDBMS>
+<ownerDesignName>AW_data_model</ownerDesignName>
+<engineerTo>
+<item key="59D24A8D-8BE6-F1D2-1678-FD6B57ED6C28" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<hierarchicalParent>F5149C57-6EAD-D826-D1CC-5C93EE616626</hierarchicalParent>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+</Entity>

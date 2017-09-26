@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Political regional  structure contains" directorySegmentName="seg_0" id="B7DAFE22-42D8-1A62-202D-683233F8AE85">
+<createdBy>david</createdBy>
+<createdTime>2017-09-25 14:38:40 UTC</createdTime>
+<ownerDesignName>AW_data_model</ownerDesignName>
+<engineerTo>
+<item key="59D24A8D-8BE6-F1D2-1678-FD6B57ED6C28" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>ECAB83EA-6A5A-135C-2BD8-CDC2F5B3B7D5</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>2E562377-D2FE-EA80-8DE9-06B29627FADE</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

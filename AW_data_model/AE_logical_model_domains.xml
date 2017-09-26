@@ -1,1 +1,21 @@
-
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<DomainFile class="oracle.dbtools.crest.model.design.DomainFileWrapper" fileName="AE_logical_model_domains">
+   <domains>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="Domain_1" directorySegmentName="seg_0" id="97B1B490-83AD-F3AB-C890-98396B3C5471">
+         <createdBy>david</createdBy>
+         <createdTime>2017-09-25 13:43:47 UTC</createdTime>
+         <ownerDesignName>AE_logical_model_domains</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <fileName>AE_logical_model_domains</fileName>
+         <logicalDatatype>LOGDT017</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="Unknown" id="DOM3000004">
+         <createdBy>david</createdBy>
+         <createdTime>2017-09-25 13:43:34 UTC</createdTime>
+         <ownerDesignName>System</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <fileName>defaultdomains</fileName>
+         <logicalDatatype>LOGDT017</logicalDatatype>
+      </Domain>
+   </domains>
+</DomainFile>

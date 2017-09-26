@@ -1,0 +1,6 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TransformationPackage class="oracle.dbtools.crest.model.design.process.TransformationPackage" name="TransformationPackage_1" id="7054E62D-754D-ED89-815D-38379D63FA4E">
+<createdBy>david</createdBy>
+<createdTime>2017-09-26 07:24:02 UTC</createdTime>
+<ownerDesignName>AW_data_model</ownerDesignName>
+</TransformationPackage>
